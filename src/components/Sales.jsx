@@ -17,3 +17,5 @@ const Sales = ({ ifExists, endpoint: { title, items } }) => {
    </>
   )
 }
+
+export default Sales
