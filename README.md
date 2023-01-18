@@ -11,7 +11,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://nike-store-commerce-eight.vercel.app/)
+[Live Demo Link](https://nike-store-ecommerce-eight.vercel.app/)
 
 
 ## Desktop View
