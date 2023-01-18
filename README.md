@@ -11,32 +11,24 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://gericht-restro-app.netlify.app/)
+[Live Demo Link](https://nike-store-commerce-eight.vercel.app/)
 
 
 ## Desktop View
-- Homepage
+- Hero banner
 
-![Screenshot (31)](https://user-images.githubusercontent.com/101036458/212930402-27c84e31-a05b-44b2-b89b-25702186a362.png)
-- About Us Component
+![Screenshot (44)](https://user-images.githubusercontent.com/101036458/213118655-65a04abd-bc2d-489b-9807-f7a31a878e29.png)
+- Cart
 
-![Screenshot (37)](https://user-images.githubusercontent.com/101036458/212930568-81e1c4bc-7f79-40ae-8b55-f0f0dcd9fa7c.png)
-
+![Screenshot (48)](https://user-images.githubusercontent.com/101036458/213118825-b42ca931-4df1-4bce-afbb-90668a0f914a.png)
 
 ## Tablet View
-- Menu Component
 
-![Screenshot (38)](https://user-images.githubusercontent.com/101036458/212930635-ffbf2dc2-35e7-4f2d-87c8-2917c909e3b7.png)
-
+![Screenshot (46)](https://user-images.githubusercontent.com/101036458/213118901-efe72f34-4915-4496-bdd7-2e3aaa139d06.png)
 
 ## Mobile View
-- About Laurels
 
- ![Screenshot (40)](https://user-images.githubusercontent.com/101036458/212930723-3318e0ea-60d1-4d2e-88f4-c0c382543b7c.png)
-- Footer Part
-
-![Screenshot (41)](https://user-images.githubusercontent.com/101036458/212930806-97f1d058-1a1c-4ddf-b1e4-9db818786aba.png)
-
+![Screenshot (47)](https://user-images.githubusercontent.com/101036458/213118986-6b41c391-5b9a-4184-a1ca-3e4de81c8dae.png)
 
 ## 🤝 Contributing
 
